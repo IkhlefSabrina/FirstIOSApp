@@ -20,7 +20,7 @@ struct ContentView: View {
             VStack(alignment: .leading){
                 Text("Turtle Rock")
                     .font(.title)
-                    .foregroundColor(Color.green)
+                    .foregroundColor(Color.red)
                 HStack {
                     Text("Joshua Tree National Park")
                     Spacer()
