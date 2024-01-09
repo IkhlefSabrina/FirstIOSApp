@@ -23,7 +23,7 @@ struct LandmarkList: View {
         }
     }
 }
-
+// landmark importer dans LandmarkDetail+row
 #Preview {
     LandmarkList()
 }
