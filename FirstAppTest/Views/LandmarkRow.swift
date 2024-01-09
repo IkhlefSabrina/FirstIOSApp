@@ -28,3 +28,6 @@ struct LandmarkRow: View {
         LandmarkRow(landmark: landmarks[1])
     }
 }
+
+//La preview permet de vérofier indépendémment, dans le script
+//LandmarkList, on appelle la fonction dans la boucle des Id...
